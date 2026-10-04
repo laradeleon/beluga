@@ -57,7 +57,7 @@ Most of our group members have little or no prior experience with Angular. Based
 ![Architecture Diagram](/docs/sprint-0/architecture-diagram.png)
 
 ## Documentation
-- [GitHub Issue Board (Features & User Stories)](https://github.com/users/laradeleon/projects/1)
+- [GitHub Project Board](https://github.com/users/laradeleon/projects/1) (Contains our planned features and user stories as GitHub issues, including acceptance criteria)
 - [Team Working Agreement](team-working-agreement.pdf)
 - Git Branching Strategy: [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
 
