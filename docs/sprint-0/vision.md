@@ -1,6 +1,6 @@
 # Vision Statement 
 
-The Story Machine is a platform where anyone can write a story in which the reader decides what happens next, publish it, and read and discuss stories written by others, with the purpose of bringing the authors and readers of these stories together in one community.
+The Story Machine is a platform where anyone can write a story in which the reader decides what happens next, publish it, and read stories written by others, with the purpose of bringing the authors and readers together in a community where they can share feedback and comments on stories.
 
 An author who wants to write a story where the reader makes the choices often has to pick between a tool that understands choices and a community that has readers. Existing story builders can handle these stories but usually leave authors responsible for distributing their work, while general story-sharing communities provide an audience but are designed for stories read from start to finish. On those sites, authors are left linking chapters by hand, which makes stories difficult to maintain as they change. The Story Machine offers both in one place. Authors can write their story naturally, mark the moments where the reader can make decisions, decide how the story looks and sounds, and publish it directly to a community of readers. Readers can browse for stories that interest them, make choices that shape the ending, continue later from where they left off, follow the authors they enjoy, and comment on a story they read.
 
