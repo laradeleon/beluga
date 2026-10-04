@@ -3,7 +3,7 @@
 
 ## Product Vision 
 
-Our vision statement can be found [here](/docs/vision.md).
+Our vision statement can be found [here](vision.md).
 
 ## Invented Customer / Stakeholder Context
 
@@ -56,7 +56,7 @@ Most of our group members have little or no prior experience with Angular. Based
 
 ## Documentation
 - [GitHub Issue Board (Features & User Stories)](https://github.com/users/laradeleon/projects/1)
-- [Team Working Agreement](docs/sprint-0/team-working-agreement.pdf)
+- [Team Working Agreement](team-working-agreement.pdf)
 - Git Branching Strategy: [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
 
 

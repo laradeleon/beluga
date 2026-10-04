@@ -1,12 +1,12 @@
 # The Story Machine
 
-The Story Machine is a platform where anyone can write and publish interactive stories, discover stories written by others, and discuss them with a community of readers and authors.
+The Story Machine is a platform where anyone can write, publish, read, and discuss interactive stories in which readers shape the story through their choices, bringing authors and readers together in one community.
 
 ## Documentation
 [Vision Statement](./docs/sprint-0/vision.md)
 
 ## Deliverables
-[Sprint 0](./docs/sprint-0/)
+[Sprint 0](./docs/sprint-0/sprint0.md)
 
 ## Group Members
 - Lara De Leon
