@@ -54,6 +54,8 @@ Most of our group members have little or no prior experience with Angular. Based
 
 ## High-Level Architecture Sketch
 
+![Architecture Diagram](/docs/sprint-0/architecture-diagram.png)
+
 ## Documentation
 - [GitHub Issue Board (Features & User Stories)](https://github.com/users/laradeleon/projects/1)
 - [Team Working Agreement](team-working-agreement.pdf)
