@@ -9,9 +9,11 @@ Our vision statement can be found [here](/docs/vision.md).
 
 Our invented customer is Beluga Press, an online writing community of about 2,000 hobby writers and the readers who follow them. Beluga Press's site was built for stories read from the first chapter to the last, but a growing number of its members write stories where the reader makes the choices. The site has no way to express a choice, so these authors work around it. They post every path as its own chapter and end each one with instructions such as "If you open the door, go to chapter 12." This workaround causes problems for everyone involved:
 
-- **Authors** have to keep every instruction correct by hand. Adding, removing, or reordering a single chapter can break the story.
-- **Readers** have to find their own way to the right chapter. Nothing stops them from opening a chapter they were never meant to see, and the story cannot remember what they chose earlier.
-- **The organizers of Beluga Press** watch these authors leave for standalone story builders. Those tools are designed for branching stories and handle the links between choices automatically, but they separate authors from the community that already reads their work.
+**Authors** have to keep every instruction correct by hand. Adding, removing, or reordering a single chapter can break the story.
+
+**Readers** have to find their own way to the right chapter. Nothing stops them from opening a chapter they were never meant to see, and the story cannot remember what they chose earlier.
+
+**The organizers of Beluga Press** watch these authors leave for standalone story builders. Those tools are designed for branching stories and handle the links between choices automatically, but they separate authors from the community that already reads their work.
 
 Beluga Press has asked us to build a home for these stories, where a story with choices is as easy to write, publish, and find as an ordinary one, and where its authors and readers stay in one community. 
 
