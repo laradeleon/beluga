@@ -32,7 +32,6 @@ npm start
 ```
 Then open http://localhost:4200. Press `Ctrl+C` in the terminal to stop the server.
 
-This runs the full test suite once and prints the results.
 
 ## Group Members
 - Lara De Leon
